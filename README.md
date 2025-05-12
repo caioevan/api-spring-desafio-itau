@@ -1,4 +1,4 @@
-# Desafio Itau (Apenas para afins acadêmicos)
+# Desafio Itau (Apenas para fins acadêmicos)
 
 API Rest feito em Java com Springboot.
 
